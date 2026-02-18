@@ -18,5 +18,5 @@ public class largestSmallest {
         }
         System.out.println("Largest Number is: " + largest);
         System.out.println("Smallest Number is: " + smallest);
-
+    }
     }
