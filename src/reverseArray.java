@@ -8,6 +8,5 @@ public class reverseArray {
      }
    System.out.println("Original: "+ word);
    System.out.println("Reversed: "+ reversed);
-     
-     }    
+   }    
 }
