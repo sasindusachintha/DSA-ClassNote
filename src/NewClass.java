@@ -1,4 +1,5 @@
-/*START
+/* PseudoCode
+START
   GET number1 from user input
   READ number1
 
