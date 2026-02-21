@@ -7,7 +7,8 @@ public class fibonachchi {
        int b = 1;
        
        System.out.print(a+" "+ b+ " ");
-       
+
+      // Iterative
        for(int i= 3; i <=n ; i++){
             int fib = a+b;
             System.out.print(fib+ " ");
