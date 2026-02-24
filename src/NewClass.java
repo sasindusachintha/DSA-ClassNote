@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 /*START
+=======
+/* PseudoCode
+START
+>>>>>>> eb5e28094b2c1a10af6c7caa3ebdfe1f9d65e339
   GET number1 from user input
   READ number1
 
