@@ -31,7 +31,7 @@ public class linearSearchuserinput {
         int index = linear(arr, key);
 
         if (index != -1) {
-            System.out.println("Element found at index " + index);
+            System.out.println("Element found at index: " + index);
         } else {
             System.out.println("Element not found!");
         }
