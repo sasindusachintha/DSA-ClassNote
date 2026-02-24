@@ -15,7 +15,7 @@ public class insertionAlpha {
         }
     }
    
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         
         String[] fruits = {"Apple", "orange", "banana", "Mango", "Pineapple"} ;
         
