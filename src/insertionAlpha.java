@@ -32,6 +32,7 @@ public class insertionAlpha {
             System.out.print(x + " ");
         }
         System.out.println();
+
     }
 }
 
