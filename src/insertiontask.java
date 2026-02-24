@@ -38,7 +38,7 @@ public class insertiontask {
         String name;
         int age;
 
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 3; i++) {
             System.out.print("Enter name of student " + (i + 1) + " : ");
             name = sc.nextLine();
 
@@ -51,16 +51,22 @@ public class insertiontask {
 
         }
 
-        System.out.println("Enter name to Search: ");
-        String sname = sc.nextLine();
+        do {
+            System.out.println("Enter name to Search: (or enter 'e' to exit)");
+            String sname = sc.nextLine();
 
-        int index = linear(std, sname);
+            if (sname.equalsIgnoreCase("e")) {
+                System.out.println("Exiting search..");
+                break;
+            }
+            int index = linear(std, sname);
 
-        if (index != -1) {
-            System.out.println("Student age is: " + std[index].age);
-        } else {
-            System.out.println("Student not found!");
-        }
+            if (index != -1) {
+                System.out.println("Student age is: " + std[index].age);
+            } else {
+                System.out.println("Student not found!");
+            }
 
+        } while (true);
     }
 }
