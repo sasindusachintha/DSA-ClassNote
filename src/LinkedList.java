@@ -151,6 +151,8 @@ public class LinkedList {
         list.deleteAtLocation(3);
         list.insertatlocation(456, 4);
         list.deleteTail();
+        
+        list.search(10);
         list.print();
 
     }
