@@ -2,6 +2,8 @@ public class DPfibonacci {
    static int fib(int n){
        
        int[] dp = new int[n+2];
+
+      //store values of subproblems (base case)
        dp[0] = 0;
        dp[1] = 1;
        
