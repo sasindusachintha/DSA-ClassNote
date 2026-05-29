@@ -1,6 +1,7 @@
 
 public class binarySearch {
 
+    //binarySearch
     public static int BinarySearch(int[] arr, int key) {
         int low = 0, high = arr.length - 1;
         while (low <= high) {
