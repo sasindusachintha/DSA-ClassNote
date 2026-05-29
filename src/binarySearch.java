@@ -18,6 +18,7 @@ public class binarySearch {
         return -1;
     }
 
+    //insertionSort
     public static void insertion(int[] arr) {
         int n = arr.length;
 
