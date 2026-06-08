@@ -30,7 +30,8 @@ public class GraphMatrix {
     
         public static void main(String[] args){
          GraphMatrix graph = new GraphMatrix(4);
-         
+
+            //adding elements
          graph.addEdge(0, 1);
          graph.addEdge(0, 2);
          graph.addEdge(1, 3);
