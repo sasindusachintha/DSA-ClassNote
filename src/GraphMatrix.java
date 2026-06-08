@@ -1,6 +1,7 @@
 
 public class GraphMatrix {
 
+    //define vertices
     private int vertices;
     private int[][] matrix;
 
