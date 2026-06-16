@@ -9,7 +9,7 @@
 END
 */
 
-
+// import Scanner
 import java.util.Scanner;
 
 public class findArea {
