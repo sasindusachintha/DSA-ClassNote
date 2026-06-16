@@ -15,7 +15,8 @@ import java.util.Scanner;
 public class findArea {
   //main method
     public static void main(String[] args){
-        
+
+      // create scanner objecet
         Scanner sc = new Scanner(System.in);
      
         double r ;
