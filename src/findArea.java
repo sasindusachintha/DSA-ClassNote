@@ -13,6 +13,7 @@ END
 import java.util.Scanner;
 
 public class findArea {
+  //main method
     public static void main(String[] args){
         
         Scanner sc = new Scanner(System.in);
