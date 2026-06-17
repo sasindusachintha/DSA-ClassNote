@@ -1,4 +1,4 @@
-
+// print even numbers less than 100
 public class even {
      public static void main(String[] args){
          int sum = 0;
