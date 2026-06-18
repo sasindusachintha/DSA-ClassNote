@@ -14,11 +14,14 @@ import java.util.Scanner;
 
 public class fahrenheit {
    public static void main(String[] args){
-       
+
+     //create scanner object
        Scanner sc = new Scanner(System.in);
        double f;
        
        System.out.print("Enter Fahrenheit Value: ");
+
+     
        f = sc.nextDouble();
        
        double Celcius = (5.0/9.0)* (f-32);
