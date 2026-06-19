@@ -29,7 +29,8 @@ public class NewClass {
      int n1, n2;
      
      Scanner sc = new Scanner(System.in);
-     
+
+      //get user inputs
      System.out.println("Enter Number 1: ");
      n1 = sc.nextInt();
      
