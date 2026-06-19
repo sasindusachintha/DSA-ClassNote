@@ -24,6 +24,8 @@ import java.util.Scanner;
 
 public class NewClass {
     public static void main(String[] args){
+
+      //declare variables
      int n1, n2;
      
      Scanner sc = new Scanner(System.in);
