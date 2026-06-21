@@ -1,6 +1,7 @@
 
 public class linearSearch {
 
+// linearSearch method
     public static int linear(int[] arr, int key) {
         int n = arr.length;
 
