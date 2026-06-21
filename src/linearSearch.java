@@ -5,6 +5,7 @@ public class linearSearch {
     public static int linear(int[] arr, int key) {
         int n = arr.length;
 
+        // loop thorugh array
         for (int i = 0; i < n; i++) {
             if (arr[i] == key) {
                 return i;
