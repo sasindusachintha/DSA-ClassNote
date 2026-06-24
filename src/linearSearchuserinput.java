@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class linearSearchuserinput {
 
+    //linearSearch
     public static int linear(int[] arr, int key) {
         int n = arr.length;
         int count = 0;
