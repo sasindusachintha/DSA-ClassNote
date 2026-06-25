@@ -6,6 +6,7 @@ public class largestSmallest {
         //define array with hardcoded values
         int[] array = {10, 5, 50, 2, 20, 45};
 
+        //create variables to store smallest and largest value
         int smallest = array[0];
         int largest = array[0];
         int n = array.length;
