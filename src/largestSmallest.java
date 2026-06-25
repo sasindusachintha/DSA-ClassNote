@@ -2,6 +2,8 @@
 public class largestSmallest {
 
     public static void main(String[] args) {
+
+        //define array with hardcoded values
         int[] array = {10, 5, 50, 2, 20, 45};
 
         int smallest = array[0];
