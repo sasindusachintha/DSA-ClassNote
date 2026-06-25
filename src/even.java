@@ -5,6 +5,7 @@ public class even {
          for(int i= 0; i <= 100 ; i+=2){
              sum = sum + i;
          }
+         //print
          System.out.println(sum);
      }    
 }
