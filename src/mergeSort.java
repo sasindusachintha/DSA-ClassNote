@@ -2,6 +2,7 @@
 public class mergeSort {
 
     static void merge(int[] arr, int left, int mid, int right) {
+        //define first , middle and last value placeholders
         int i = left;
         int j = mid + 1;
         int k = 0;
