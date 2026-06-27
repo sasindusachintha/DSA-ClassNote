@@ -10,7 +10,8 @@ public class passfail {
        
        System.out.print("Enter Your Marks: ");
        marks = sc.nextInt();
-       
+
+     //choose relavant garade for subject marks using if-else
        if(marks < 0 || marks >100){
          System.out.println("Invalid Marks!");
        }
