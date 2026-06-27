@@ -5,6 +5,7 @@ public class passfail {
     public static void main(String[] args){
        int marks;
 
+     // create scanner object
        Scanner sc = new Scanner(System.in);
        
        System.out.print("Enter Your Marks: ");
