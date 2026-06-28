@@ -6,6 +6,8 @@ public class findSum {
          for(int i= 0; i <= 100 ; i+=2){
              sum = sum + i;
          }
+
+          //print sum
          System.out.println(sum);
      }    
 }
