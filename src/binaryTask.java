@@ -27,6 +27,7 @@ public class binaryTask {
         //sorted array
         System.out.print("Sorted Array: ");
 
+        //sort the array
         Arrays.sort(fruits);
         for (String x : fruits) {
             System.out.print(x + " ");
