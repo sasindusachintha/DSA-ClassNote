@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class binaryTask {
     public static void main(String[] args) {
+
+        // create array size of fruits
         String[] fruits = new String[3];
 
         int n = fruits.length;
