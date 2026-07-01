@@ -1,4 +1,4 @@
-
+// import Scanner
 import java.util.Scanner;
 
 class student {
