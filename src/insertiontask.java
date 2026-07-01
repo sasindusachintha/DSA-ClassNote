@@ -31,6 +31,7 @@ public class insertiontask {
 
     public static void main(String[] args) {
 
+        // Declare an array to store up to 10 student objects
         student[] std = new student[10];
 
         Scanner sc = new Scanner(System.in);
