@@ -3,6 +3,8 @@ package sasi.dsa;
 public class arrays {
 
     public static void main(String[] args) {
+
+        //create array with values
         int[] my_array = {7, 12, 9, 4, 11};
 
         for (int n : my_array) {
