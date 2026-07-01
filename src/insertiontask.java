@@ -34,6 +34,7 @@ public class insertiontask {
         // Declare an array to store up to 10 student objects
         student[] std = new student[10];
 
+        // Create a Scanner object to take input from the user (keyboard)
         Scanner sc = new Scanner(System.in);
 
         String name;
