@@ -2,6 +2,7 @@ import java.util.LinkedList;
 
 public class LinkedListDemo {
     public static void main(String[] args){
+        //create new linkedlist object
         LinkedList<String> list = new LinkedList<>();
         
         //adding elements
