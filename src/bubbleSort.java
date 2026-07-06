@@ -1,5 +1,7 @@
 public class BubbleSort {
     public static int bubbleSort(int[] arr){
+
+        //define array lenght 
         int n = arr.length;
         int count = 0;
 
