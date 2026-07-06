@@ -3,6 +3,7 @@ public class BubbleSort {
 
         //define array lenght 
         int n = arr.length;
+        // to calculate how many counts passes to sort the array
         int count = 0;
 
         for(int i = 0 ; i < n-1 ; i++){
