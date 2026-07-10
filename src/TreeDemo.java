@@ -35,7 +35,7 @@ public class TreeDemo {
         //creating new object
         BinaryTreeDemo tree = new BinaryTreeDemo();
 
-       
+       //printing inorder traversal
         System.out.print("Inorder Traversal: ");
         tree.inorder(root);
 
