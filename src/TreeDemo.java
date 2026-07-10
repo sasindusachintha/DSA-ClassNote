@@ -32,7 +32,7 @@ public class TreeDemo {
         root.left.left = new Node(20);
         root.left.right = new Node(25);
 
-        
+        //creating new object
         BinaryTreeDemo tree = new BinaryTreeDemo();
 
        
