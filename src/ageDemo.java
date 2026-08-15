@@ -10,7 +10,8 @@ public class ageDemo {
       // get user input
        System.out.print("Enter Your Age: ");
        age = sc.nextInt();
-       
+
+        //decision making(if condition)
        if(age >= 21){
            System.out.println("An Adult");
        }else{
