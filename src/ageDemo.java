@@ -6,7 +6,8 @@ public class ageDemo {
 
        //create new scanner object 
        Scanner sc = new Scanner(System.in);
-       
+
+      // get user input
        System.out.print("Enter Your Age: ");
        age = sc.nextInt();
        
