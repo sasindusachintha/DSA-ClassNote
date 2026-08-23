@@ -1,4 +1,4 @@
-//defime array
+//define array
 public class DPfibonacci {
    static int fib(int n){
 
