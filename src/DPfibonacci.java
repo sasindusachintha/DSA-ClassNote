@@ -2,7 +2,7 @@
 public class DPfibonacci {
    static int fib(int n){
 
-      //define array
+      //define the array
        int[] dp = new int[n+2];
 
       //store values of subproblems (base case)
