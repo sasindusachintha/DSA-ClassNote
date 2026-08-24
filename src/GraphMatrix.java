@@ -24,6 +24,7 @@ public class GraphMatrix {
             for (int j = 0; j < vertices; j++) {
                 System.out.print(matrix[i][j] + " ");
             }
+           // add space line
             System.out.println();
         }
     }
