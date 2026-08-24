@@ -16,7 +16,7 @@ public class GraphMatrix {
         matrix[destination][source] = 1;
     }
 
-    //print matrix
+    //print  matrix
     public void printGraph() {
         System.out.println("Matrix:");
 
