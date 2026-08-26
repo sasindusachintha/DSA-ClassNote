@@ -12,6 +12,8 @@ public class largest {
        B = sc.nextInt();
        System.out.print("Enter C: ");  
        C = sc.nextInt();
+
+ // if condition
        if(A > B){
            if(A > C){
                System.out.print("Largest is: A");  
