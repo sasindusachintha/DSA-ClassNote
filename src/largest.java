@@ -10,6 +10,7 @@ public class largest {
        int A, B, C ;
        
        System.out.print("Enter A: ");  
+       //Take user input
        A = sc.nextInt();
        System.out.print("Enter B: ");  
        B = sc.nextInt();
