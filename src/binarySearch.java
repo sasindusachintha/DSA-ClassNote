@@ -22,7 +22,7 @@ public class binarySearch {
     //insertionSort
     public static void insertion(int[] arr) {
         int n = arr.length;
-
+// for loop
         for (int i = 1; i < n; i++) {
             int key = arr[i];
             int j = i - 1;
