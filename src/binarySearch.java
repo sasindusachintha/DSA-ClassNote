@@ -59,7 +59,7 @@ public class binarySearch {
         int key = 34;
 
         int index = BinarySearch(arr, key);
-
+// if condition
         if (index != -1) {
             System.out.println("Element found at index " + index);
         } else {
