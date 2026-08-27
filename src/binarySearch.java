@@ -36,6 +36,7 @@ public class binarySearch {
     }
 
     public static void main(String[] args) {
+// define array
         int[] arr = {34, 45, 23, 56, 78, 23, 43};
 
         //unsorted array
