@@ -1,4 +1,4 @@
-
+//class
 public class LinkedList {
 
     class Node {
