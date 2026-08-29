@@ -1,6 +1,7 @@
 //class
 public class LinkedList {
 
+//node class
     class Node {
 
         int data;
