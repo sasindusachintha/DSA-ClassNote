@@ -48,7 +48,7 @@ public class LinkedList {
 //        insert at specific location
     public void insertatlocation(int data, int location) {
         Node newNode = new Node(data);
-
+// if condition
         if (location == 1) {
             newNode.next = head;
             head = newNode;
