@@ -76,6 +76,7 @@ public class LinkedList {
         System.out.println("previous head deleted.!");
     }
 
+// delete tail
     public void deleteTail() {
         if (head == null) {
             System.out.println("Empty List");
