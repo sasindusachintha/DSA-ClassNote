@@ -27,7 +27,8 @@ public class NewClass {
 
       //declare variables
      int n1, n2;
-     
+
+    //input scanner
      Scanner sc = new Scanner(System.in);
 
       //get user inputs
