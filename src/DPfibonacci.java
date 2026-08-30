@@ -18,7 +18,7 @@ public class DPfibonacci {
 
    // main method
    public static void main(String[] args){
-       
+       // inputs
        int n = 6;
 
       // print values 
