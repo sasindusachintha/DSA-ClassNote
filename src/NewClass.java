@@ -31,7 +31,7 @@ public class NewClass {
     //input scanner
      Scanner sc = new Scanner(System.in);
 
-      //get user inputs
+      //get user input 1
      System.out.println("Enter Number 1: ");
      n1 = sc.nextInt();
 
