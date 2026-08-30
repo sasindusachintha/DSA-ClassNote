@@ -34,7 +34,8 @@ public class NewClass {
       //get user inputs
      System.out.println("Enter Number 1: ");
      n1 = sc.nextInt();
-     
+
+    //get user input 2
      System.out.println("Enter Number 2: ");
      n2 =sc.nextInt();
      
