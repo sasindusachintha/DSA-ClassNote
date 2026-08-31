@@ -4,6 +4,8 @@ public class even {
          
          //sum 
          int sum = 0;
+
+          //for loop
          for(int i= 0; i <= 100 ; i+=2){
              sum = sum + i;
          }
