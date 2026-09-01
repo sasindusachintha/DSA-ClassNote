@@ -19,7 +19,7 @@ DISPLAY :
       "Sum: " + sum
 END
 */
-
+// import scanner
 import java.util.Scanner;
 
 public class NewClass {
