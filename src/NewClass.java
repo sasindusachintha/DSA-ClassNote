@@ -22,8 +22,10 @@ END
 // import scanner
 import java.util.Scanner;
 
+
 public class NewClass {
-    public static void main(String[] args){
+ //create main method
+  public static void main(String[] args){
 
       //declare variables
      int n1, n2;
