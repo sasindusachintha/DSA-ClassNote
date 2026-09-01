@@ -46,7 +46,8 @@ public class NewClass {
      
      System.out.println("Sum: "+ sum);
      System.out.println("Average: "+ avg);
-    
+
+    //close Scanner
      sc.close();
     }
 }
