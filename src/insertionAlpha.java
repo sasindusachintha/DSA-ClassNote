@@ -1,6 +1,7 @@
 
 public class insertionAlpha {
    public static void Stringinsertion(String[] arr) {
+   // Stores the length of the array in variable n
         int n = arr.length;
 
         for (int i = 1; i < n; i++) {
