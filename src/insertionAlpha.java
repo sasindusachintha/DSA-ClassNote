@@ -7,6 +7,8 @@ public class insertionAlpha {
       // Starts a for loop from the second element (index 1)
       // and continues until the end of the array
         for (int i = 1; i < n; i++) {
+           // Stores the current element in a variable called key
+            // This is the element we want to insert into its correct position
             String key = arr[i];
             int j = i - 1;
 
