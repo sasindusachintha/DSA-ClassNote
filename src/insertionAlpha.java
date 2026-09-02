@@ -4,6 +4,8 @@ public class insertionAlpha {
    // Stores the length of the array in variable n
         int n = arr.length;
 
+      // Starts a for loop from the second element (index 1)
+      // and continues until the end of the array
         for (int i = 1; i < n; i++) {
             String key = arr[i];
             int j = i - 1;
