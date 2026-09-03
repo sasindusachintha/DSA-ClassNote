@@ -28,6 +28,7 @@ public class fahrenheit {
        
        double Celcius = (5.0/9.0)* (f-32);
        
+// print value
        System.out.println("Celcius Value: " + Celcius);
    }    
 }
