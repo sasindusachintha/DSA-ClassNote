@@ -14,6 +14,7 @@ import java.util.Scanner;
 
 
 public class fahrenheit {
+// main method
    public static void main(String[] args){
 
      //create scanner object
