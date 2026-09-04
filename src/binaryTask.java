@@ -3,6 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class binaryTask {
+    //main method
     public static void main(String[] args) {
 
         // create array size of fruits
