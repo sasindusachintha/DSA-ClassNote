@@ -9,6 +9,7 @@ public class binaryTask {
         // create array size of fruits
         String[] fruits = new String[3];
 
+        //get the number of elements of fruits array
         int n = fruits.length;
 
         Scanner sc = new Scanner(System.in);
