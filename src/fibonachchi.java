@@ -11,7 +11,8 @@ public class fibonachchi {
 
        // Second Fibonacci number
        int b = 1;
-       
+
+       // Print the first two Fibonacci numbers
        System.out.print(a+" "+ b+ " ");
 
        for(int i= 3; i <=n ; i++){
