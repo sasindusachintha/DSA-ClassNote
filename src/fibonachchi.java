@@ -5,7 +5,11 @@ public class fibonachchi {
 
       // Number of Fibonacci terms to generate
        int n = 100;
+
+       // First Fibonacci number
        int a =0;
+
+       // Second Fibonacci number
        int b = 1;
        
        System.out.print(a+" "+ b+ " ");
