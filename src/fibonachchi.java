@@ -15,6 +15,7 @@ public class fibonachchi {
        // Print the first two Fibonacci numbers
        System.out.print(a+" "+ b+ " ");
 
+       // Start from the 3rd term and continue up to n
        for(int i= 3; i <=n ; i++){
             int fib = a+b;
             System.out.print(fib+ " ");
