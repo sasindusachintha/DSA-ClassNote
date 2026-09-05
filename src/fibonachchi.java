@@ -1,5 +1,5 @@
 
-
+// Iterative method to generate Fibonacci series
 public class fibonachchi {
    public static void main(String[] args){
        int n = 100;
