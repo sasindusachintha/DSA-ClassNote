@@ -1,4 +1,4 @@
-//Iterative method
+
 
 public class fibonachchi {
    public static void main(String[] args){
