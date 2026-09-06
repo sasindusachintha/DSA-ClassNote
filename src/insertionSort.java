@@ -2,6 +2,7 @@
 public class insertionSort {
 
     public static void insertion(int[] arr) {
+        // Store the length of the array
         int n = arr.length;
 
         for (int i = 1; i < n; i++) {
