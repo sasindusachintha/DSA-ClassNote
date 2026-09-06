@@ -5,6 +5,8 @@ public class insertionSort {
         // Store the length of the array
         int n = arr.length;
 
+        // Start from the second element because the first element
+        // is considered already sorted
         for (int i = 1; i < n; i++) {
             int key = arr[i];
             int j = i - 1;
