@@ -8,6 +8,7 @@ public class insertionSort {
         // Start from the second element because the first element
         // is considered already sorted
         for (int i = 1; i < n; i++) {
+             // Store the current element that needs to be inserted
             int key = arr[i];
             int j = i - 1;
 
