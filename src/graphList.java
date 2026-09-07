@@ -10,6 +10,7 @@ public class graphList {
         this.vertices = vertices;
         adlist = new LinkedList[vertices];
 
+// for loop
         for (int i = 0; i < vertices; i++) {
             adlist[i] = new LinkedList<>();
         }
