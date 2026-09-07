@@ -46,6 +46,7 @@ public class graphList {
         list.addEdge(0, 2);
         list.addEdge(2, 3);
 
+// print list
         list.print();
     }
 }
