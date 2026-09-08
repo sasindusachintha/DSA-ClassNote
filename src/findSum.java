@@ -2,6 +2,7 @@
 // calculate sum
 
 public class findSum {
+     //main method
      public static void main(String[] args){
          int sum = 0;
 
