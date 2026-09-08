@@ -4,6 +4,7 @@
 public class findSum {
      //main method
      public static void main(String[] args){
+          //sum equals zero
          int sum = 0;
 
           //calculating sum
