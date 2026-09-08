@@ -1,4 +1,5 @@
 
+// calculate sum
 
 public class findSum {
      public static void main(String[] args){
