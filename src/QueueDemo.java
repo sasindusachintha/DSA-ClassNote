@@ -6,7 +6,9 @@ import java.util.LinkedList;
 
 public class QueueDemo {
     public static void main(String[] args){
-    Queue<Integer> queue1  = new LinkedList<>();  //create queue
+
+         // Create a Queue using LinkedList
+    Queue<Integer> queue1  = new LinkedList<>(); 
     
     //adding elements
     queue1.add(10);
