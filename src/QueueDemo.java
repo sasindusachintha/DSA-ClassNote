@@ -1,5 +1,6 @@
 // Import Queue interface
 import java.util.Queue;
+// Import LinkedList class
 import java.util.LinkedList;
 
 
