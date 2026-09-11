@@ -24,6 +24,7 @@ public class TreeDemo {
         }
     }
 
+// main method
     public static void main(String[] args) {
         // Create tree nodes
         Node root = new Node(5);
