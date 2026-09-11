@@ -3,7 +3,7 @@ public class TreeDemo {
     // Node class
     static class Node {
         int data;
-        Node left, right
+        Node left, right;
 
         Node(int value) {
             data = value;
