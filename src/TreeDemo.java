@@ -2,7 +2,7 @@ public class TreeDemo {
 
     // Node class
     static class Node {
-        int data
+        int data;
         Node left, right;
 
         Node(int value) {
