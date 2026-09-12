@@ -7,6 +7,7 @@ public class fibonacci {
         
         return fib(n-1)+ fib(n-2); // recursive case
     }    
+// main method
     public static void main(String[] args){
         
         int n = 7;
