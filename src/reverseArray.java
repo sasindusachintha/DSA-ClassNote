@@ -1,5 +1,7 @@
 public class reverseArray {
  public static void main(String[] args){
+
+   // Store the original word
      String word = "ICBT";
      String reversed = " ";
      
