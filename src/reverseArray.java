@@ -16,6 +16,8 @@ public class reverseArray {
 
      // Display the original word
    System.out.println("Original: "+ word);
+
+  // Display the reversed word
    System.out.println("Reversed: "+ reversed);
  }
 }
