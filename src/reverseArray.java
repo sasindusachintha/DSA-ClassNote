@@ -3,6 +3,8 @@ public class reverseArray {
 
    // Store the original word
      String word = "ICBT";
+
+   // Create an empty string to store the reversed word
      String reversed = " ";
      
      for (int i = word.length()-1; i >=0 ;i--){
