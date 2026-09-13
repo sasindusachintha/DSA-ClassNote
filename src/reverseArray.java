@@ -6,7 +6,8 @@ public class reverseArray {
 
    // Create an empty string to store the reversed word
      String reversed = " ";
-     
+
+   // Start from the last character and move towards the first character
      for (int i = word.length()-1; i >=0 ;i--){
          reversed = reversed + word.charAt(i);
      }
