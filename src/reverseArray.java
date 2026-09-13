@@ -9,6 +9,8 @@ public class reverseArray {
 
    // Start from the last character and move towards the first character
      for (int i = word.length()-1; i >=0 ;i--){
+      
+      // Add the current character to the reversed string
          reversed = reversed + word.charAt(i);
      }
    System.out.println("Original: "+ word);
