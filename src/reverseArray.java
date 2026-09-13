@@ -13,6 +13,8 @@ public class reverseArray {
       // Add the current character to the reversed string
          reversed = reversed + word.charAt(i);
      }
+
+     // Display the original word
    System.out.println("Original: "+ word);
    System.out.println("Reversed: "+ reversed);
  }
