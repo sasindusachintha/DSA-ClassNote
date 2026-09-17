@@ -1,6 +1,8 @@
 
 public class largestSmallest {
 
+
+// main method
     public static void main(String[] args) {
 
         //define array with hardcoded values
