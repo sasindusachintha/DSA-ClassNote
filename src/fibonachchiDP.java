@@ -19,6 +19,7 @@ public class fibonachchiDP {
        return dp[n];
    }    
    
+// main method
    public static void main(String[] args){
        
        int n =10;
