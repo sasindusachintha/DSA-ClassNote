@@ -13,6 +13,7 @@ public class largestSmallest {
         int largest = array[0];
         int n = array.length;
 
+      // for loop
         for (int i = 0; i < n; i++) {
             if (array[i] > largest) {
                 largest = array[i];
