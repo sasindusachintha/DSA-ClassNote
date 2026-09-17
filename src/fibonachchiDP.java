@@ -1,5 +1,7 @@
 
 public class fibonachchiDP {
+
+   //
    public static int fib(int n){
        if(n <= 1) return n;
 
@@ -8,7 +10,7 @@ public class fibonachchiDP {
        
        //base case
        dp[0] = 0;
-       dp[1]  = 1;
+       dp[1]  = 1; // base case 
        
        for(int i = 2; i <= n ; i++){
            dp[i] = dp[i-1] + dp[i-2];
