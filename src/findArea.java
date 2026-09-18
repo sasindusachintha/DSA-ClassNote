@@ -24,7 +24,8 @@ public class findArea {
       //print
         System.out.println("Enter Radius Value: ");
         r = sc.nextDouble();
-       
+
+      //formula
        double Area = 3.14 * r * r ;
        
        System.out.println("Area: " + Area);
