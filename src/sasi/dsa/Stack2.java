@@ -17,6 +17,7 @@ public class Stack2 {
         stack2.push(7);
         stack2.push(1);
 
+        //print 
         System.out.println(stack2);
 
         System.out.println("Pop the top element: " + stack2.pop());
