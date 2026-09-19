@@ -5,6 +5,7 @@ import java.util.Stack;
 //class
 public class Stack2 {
 
+    //mian method
     public static void main(String[] args) {
         //create the stack-stack2
         Stack<Integer> stack2 = new Stack<>();
