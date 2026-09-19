@@ -25,6 +25,7 @@ public class Stack2 {
 
         System.out.println("Peek the top element: " + stack2.peek());
 
+        //print stack 2
         System.out.println(stack2);
 
     }
