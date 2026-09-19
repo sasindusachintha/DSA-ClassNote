@@ -2,6 +2,7 @@ package sasi.dsa;
 
 import java.util.Stack;
 
+//class
 public class Stack2 {
 
     public static void main(String[] args) {
