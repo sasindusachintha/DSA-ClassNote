@@ -10,6 +10,7 @@ public class mergeSort {
         //create temporary array to store sored array
         int[] temp = new int[right - left + 1];
 
+        //while loop
         while (i <= mid && j <= right) {
             if (arr[i] <= arr[j]) {
                 temp[k++] = arr[i++];
