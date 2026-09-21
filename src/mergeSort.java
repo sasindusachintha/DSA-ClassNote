@@ -42,6 +42,7 @@ public class mergeSort {
         merge(arr, left, mid, right);
     }
 
+	//main method
     public static void main(String[] args) {
         int[] arr = {10, 3, 4, 23, 56, 20};
 
