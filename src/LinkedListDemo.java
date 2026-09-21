@@ -17,7 +17,8 @@ public class LinkedListDemo {
         // add one at first
           list.addFirst("Ship");
            System.out.println(list);
-           
+
+        //add to list
           list.addLast("Boat");
            System.out.println(list);
           
