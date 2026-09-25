@@ -27,6 +27,7 @@ public class passfail {
        }else{
            System.out.println("F");
        }
+     //close scanner
        sc.close();
     }
 }
