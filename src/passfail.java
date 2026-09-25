@@ -4,12 +4,14 @@ import java.util.Scanner;
  
 public class passfail {
     public static void main(String[] args){
+     //create variable marks
        int marks;
 
      // create scanner object
        Scanner sc = new Scanner(System.in);
        
        System.out.print("Enter Your Marks: ");
+     
        marks = sc.nextInt();
 
      //choose relavant garade for subject marks using if-else
